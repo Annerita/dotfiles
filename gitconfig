@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = anneritadelivonniere@gmail.com
+	name = anne rita de livonniere
